@@ -4,3 +4,7 @@
 
 
 A personal webpage to have my resume, biography, projects and more, together.
+
+# TODO
+- Daily budget calculator
+- A small browser based game
